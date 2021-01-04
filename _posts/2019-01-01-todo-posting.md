@@ -109,3 +109,12 @@ date: 2019-01-01
 [Create a class with .NET Core and Roslyn](https://carlos.mendible.com/2017/03/02/create-a-class-with-net-core-and-roslyn/)
 [AArnott/CodeGeneration.Roslyn](https://github.com/AArnott/CodeGeneration.Roslyn)
 [Entitas](https://github.com/sschmid/Entitas-CSharp)
+
+## nodejs
+
+[nodejs uninstall from mac](https://gomugom.github.io/how-to-remove-node-from-macos/)
+[nodejs install manual](https://heropy.blog/2018/02/17/node-js-install/)
+
+## postman
+
+[google-cloud-api-with-postman](https://medium.com/@pnatraj/google-cloud-api-with-postman-f4cf070e665f)
